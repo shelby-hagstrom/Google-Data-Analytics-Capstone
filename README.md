@@ -67,7 +67,7 @@ For this phase, I created some bar graphs to better visualize when the following
 * Number of rides per month by rider type
 * Average duration per month by rider type
 
-Each of these visualizations can be found in the files I have attached to this project.
+Visualizations can be found in the md file and the figure-gfm folder of this project.
 
 ## Act
 
